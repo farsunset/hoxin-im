@@ -2,20 +2,10 @@
 和信是一款成熟的即时通讯app，包含了通讯录，群聊，单聊，表情包，朋友圈，公众号等一系列完整的业务功能，遵循Google Material Design UI设计规范，可能是微信之外体验最好的即时通讯App，可以下载试试体验
    
 ---
-## 官网地址
-## [http://farsunset.com](http://farsunset.com)
- 
-
-### 联系信息
-邮箱: 3979434
-
-QQ : 3979434
-
-微信: 399434
+## 官网地址 [http://farsunset.com](http://farsunset.com) 
 
 --- 
  
-
 ## 暗黑模式
 适配Android10 暗黑主题
 匠心独运，全组件全方位的色彩适配
@@ -39,7 +29,9 @@ QQ : 3979434
 并且可以置顶和标记阅读状态
 完美适配Android 10
 <div align="center">
-   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/session.jpg" />
+   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/session.jpg" width="45%"  />
+   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/session.jpg" width="45%"  />
+
 </div>
 
 ## 朋友圈功能
@@ -56,7 +48,8 @@ QQ : 3979434
 可以静默，删除，拉黑好友
 还可以设置朋友圈访问权限
 <div align="center">
-   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/contacts_dark.jpg" />
+	<img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/contacts.jpg" width="45%"  />
+    <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/contacts_dark.jpg" width="45%"  />
 </div>
 
 
@@ -69,7 +62,7 @@ QQ : 3979434
 人性化的设置，可以显示消息状态，也可以不告诉对方你是否已读
 甚至还可以撤回消息，即使对方已经阅读
 <div align="center">
-   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/group_chat.jpg" />
+   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/group_chat.jpg"/>
 </div>
 
 
@@ -77,6 +70,7 @@ QQ : 3979434
 功能原理完全和微信保持一致
 独立微服务的接入，自定义菜单，自定义响应内容
 <div align="center">
-   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/ms_chat.jpg" />
+   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/ms_chat.jpg" width="45%"/>
+      <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/ms_chat_dark.jpg" width="45%"/>
 </div>
 
