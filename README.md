@@ -1,9 +1,7 @@
 #### 项目介绍
 和信是一款成熟的即时通讯app，包含了通讯录，群聊，单聊，表情包，朋友圈，公众号等一系列完整的业务功能，遵循Google Material Design UI设计规范，可能是微信之外体验最好的即时通讯App，可以下载试试体验
-   
 ---
 ## 官网地址 [http://farsunset.com](http://farsunset.com) 
-
 --- 
  
 ## 暗黑模式
@@ -30,8 +28,7 @@
 完美适配Android 10
 <div align="center">
    <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/session.jpg" width="45%"  />
-   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/session.jpg" width="45%"  />
-
+   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/session_dark.jpg" width="45%"  />
 </div>
 
 ## 朋友圈功能
@@ -52,7 +49,13 @@
     <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/contacts_dark.jpg" width="45%"  />
 </div>
 
-
+## 公众号
+功能原理完全和微信保持一致
+独立微服务的接入，自定义菜单，自定义响应内容
+<div align="center">
+   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/ms_chat.jpg" width="45%"/>
+   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/ms_chat_dark.jpg" width="45%"/>
+</div>
 
 ## IM通讯
 支持单人对话，以及群组聊天
@@ -63,14 +66,5 @@
 甚至还可以撤回消息，即使对方已经阅读
 <div align="center">
    <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/group_chat.jpg"/>
-</div>
-
-
-## 公众号
-功能原理完全和微信保持一致
-独立微服务的接入，自定义菜单，自定义响应内容
-<div align="center">
-   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/ms_chat.jpg" width="45%"/>
-      <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/ms_chat_dark.jpg" width="45%"/>
 </div>
 
