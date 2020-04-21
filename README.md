@@ -1,7 +1,8 @@
-#### 项目介绍
-和信是一款成熟的即时通讯app，包含了通讯录，群聊，单聊，表情包，朋友圈，公众号等一系列完整的业务功能，遵循Google Material Design UI设计规范，可能是微信之外体验最好的即时通讯App，可以下载试试体验
+
+和信是一款基于原生Android的IM应用，包含了通讯录，群聊，单聊，表情包，朋友圈，公众号等一系列完整的业务功能，遵循Google Material Design UI设计规范，可能是微信之外体验最好的即时通讯App，可以下载试试体验
+
 ---
-## 官网地址 [http://farsunset.com](http://farsunset.com) 
+## 官网 [http://farsunset.com](http://farsunset.com) 
 --- 
  
 ## 暗黑模式
@@ -53,7 +54,7 @@
 功能原理完全和微信保持一致
 独立微服务的接入，自定义菜单，自定义响应内容
 <div align="center">
-   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/ms_chat.jpg" width="45%"/>
+   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/ms_chat_light.jpg" width="45%"/>
    <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/ms_chat_dark.jpg" width="45%"/>
 </div>
 
