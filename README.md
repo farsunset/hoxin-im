@@ -4,7 +4,16 @@
 ---
 ## 官网 [http://farsunset.com](http://farsunset.com) 
 --- 
- 
+
+## 音视频通话
+已经支持音视频通话
+可以支持单人的语言和视频通话，清晰流畅
+体验与交互符合用户常用习惯
+<div align="center">
+   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/call_video_incoming.jpg" width="45%"  />
+   <img src="http://staticres.oss-cn-hangzhou.aliyuncs.com/hoxin/call_video_outgoing.jpg" width="45%" />
+</div>
+
 ## 暗黑模式
 适配Android10 暗黑主题
 匠心独运，全组件全方位的色彩适配
